@@ -3,5 +3,5 @@ datetime
 streamlit
 
 yfinance
-fprophet
+fbprophet
 potly
