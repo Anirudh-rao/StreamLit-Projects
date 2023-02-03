@@ -1,0 +1,7 @@
+pandas
+datetime
+streamlit
+
+yfinance
+fprophet
+potly
